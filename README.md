@@ -1,8 +1,11 @@
-# ml-intro
-An introduction to machine learning, the right way
+# Intro til ML
 
-## Getting started
+En samling av våre best practices får å komme i gang med maskinlæring.
 
-Open the following notebook in Google colab:
+## Innhold
 
-- [OppgaveDS.ipynb](https://colab.research.google.com/github/computas/ml-intro/blob/master/OppgaveDS.ipynb)
+### [101 - Data som representasjon av virkeligheten](101-data-som-virkelighet)
+
+Modulen ser på data som representasjon av virkeligheten. Hvilke fallgruver ligger på lur?
+
+### 102
