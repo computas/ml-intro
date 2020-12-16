@@ -4,7 +4,7 @@
 
 Du kan åpne følgende notebook i Colab
 
-- [OppgaveDS.ipynb](https://colab.research.google.com/github/computas/ml-intro/blob/master/OppgaveDS.ipynb)
+- [OppgaveDS.ipynb](https://colab.research.google.com/github/computas/ml-intro/blob/master/101-data-som-virkelighet/OppgaveDS.ipynb)
 
 ## Lokalt
 
